@@ -1,0 +1,55 @@
+/*********TAG SELECTORS******/
+
+body {
+    background-color: #CFFDE1;
+    }
+
+    hr{
+       background-color: none;
+       border-style: none;
+       border-top-style: dotted;
+       border-color: #68B984;
+       border-width: 5px;
+       width: 90%;
+       height: 2px;
+    }
+
+    h1{
+        color: #3D5656;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+    }
+
+    h1:hover{
+        color: #FED049;
+        font-family: 'Jokerman', sans-serif;
+
+    }
+
+    h3{
+        color: #3D5656;
+        font-family: "Comic Sans MS", "Comic Sans", cursive;
+    }
+
+    td{
+        background-color: #FED049:
+    }
+
+
+/********* ClASS SELECTORS ********/
+
+.chungus {
+
+    border: dashed red;
+}
+
+.chungus:hover{
+    border: 10px solid #FED049;
+}
+
+.burning {
+    border: 5px solid #FED049;
+}
+
+
+
+
